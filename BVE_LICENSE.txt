@@ -1,0 +1,4 @@
+Open Lisence for BVE
+
+このライセンスはWTFPL(http://www.wtfpl.net/txt/copying/)のもとに保護されており、いかなる人でもその一部またはすべてを複製及び改変、または再配布することを許可されている
+
